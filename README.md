@@ -73,5 +73,3 @@ Future research could involve:
 A special thanks to [Zomato](https://www.zomato.com) for providing the data, and to the open-source community for the invaluable tools that made this analysis possible.
 
 ---
-
-Feel free to modify any sections to better fit your project specifics, and add any additional information that might enhance the README!
