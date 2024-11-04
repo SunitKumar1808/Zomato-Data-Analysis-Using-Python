@@ -19,15 +19,6 @@ In today's digital age, understanding consumer behavior and trends in the food i
 
 The goal of this analysis is to extract insights from the Zomato dataset to inform restaurant owners, marketers, and food enthusiasts about emerging trends in the culinary landscape. We will delve into various aspects such as cuisine popularity, price range preferences, and the impact of location on restaurant ratings.
 
-## Data Sources
-
-The primary dataset used in this analysis is sourced from [Zomato's API](https://developers.zomato.com/api), which provides comprehensive data on restaurants, including:
-- Restaurant names and locations
-- Cuisine types
-- Menu items
-- User ratings and reviews
-- Cost for two
-
 ## Technologies Used
 
 - **Python**: For data manipulation and analysis
